@@ -17,13 +17,60 @@ I love using technology to automate complex or stressful tasks, helping people f
 ### 🛠️ My Tech Stack
 I work with a variety of tools, with a strong focus on backend technologies.
 
-| Backend | Frontend | Tools |
-| :--- | :--- | :--- |
-| <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python"/></a><br>Python</div> | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js"/></a><br>JavaScript</div> | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github"/></a><br>Git & GitHub</div> |
-| <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=flask"/></a><br>Flask</div> | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html"/></a><br>HTML5</div> | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode"/></a><br>VSCode</div> |
-| <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mongodb"/></a><br>MongoDB</div> | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=css"/></a><br>CSS3</div> | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=powershell,bash"/></a><br>PowerShell / Bash</div> |
-| <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=c"/></a><br>C</div> | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=tailwind"/></a><br>Tailwind CSS</div> | |
-
+<table border="0" align="center" width="100%">
+  <thead>
+    <tr>
+      <th align="left">Backend</th>
+      <th align="left">Frontend</th>
+      <th align="left">Tools</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=python" width="40"/><br>Python
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=js" width="40"/><br>JavaScript
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=git,github" width="80"/><br>Git & GitHub
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=flask" width="40"/><br>Flask
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=html" width="40"/><br>HTML5
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=vscode" width="40"/><br>VSCode
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="40"/><br>MongoDB
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=css" width="40"/><br>CSS3
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=powershell,bash" width="80"/><br>PowerShell & Bash
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=c" width="40"/><br>C
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=tailwind" width="40"/><br>Tailwind CSS
+      </td>
+      <td align="center">
+        </td>
+    </tr>
+  </tbody>
+</table>
 
 <br>
 
@@ -35,12 +82,28 @@ I work with a variety of tools, with a strong focus on backend technologies.
 
 ### 📊 My GitHub Stats
 
-**[STATS_CARD_PLACEHOLDER]**
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=successjoseph&show_icons=true&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=successjoseph&layout=compact&theme=tokyonight" />
+</div>
 
-**[TROPHIES_PLACEHOLDER]**
+<br>
+<br>
 
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=successjoseph&theme=tokyonight&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  
+</p>
 <br>
 
 ### 🌐 Let's Connect
 
-**[CONNECT_LINKS_PLACEHOLDER]**
+<p>
+  <a href="mailto:successjoseph67@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Send me an Email" width="40"/>
+  </a>  
+  &nbsp;&nbsp;&nbsp;
+  <a href="[YOUR_LINKEDIN_URL_HERE]" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="My LinkedIn Profile" width="40"/>
+  </a>
+</p>
