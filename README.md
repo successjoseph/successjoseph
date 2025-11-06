@@ -98,12 +98,16 @@ I work with a variety of tools, with a strong focus on backend technologies.
 
 ### 🌐 Let's Connect
 
-<p>
+<p align="center">
   <a href="mailto:successjoseph67@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Send me an Email" width="40"/>
-  </a>  
+  </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="[YOUR_LINKEDIN_URL_HERE]" target="_blank">
+  <a href="https://www.linkedin.com/in/successjoseph-dev" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="My LinkedIn Profile" width="40"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="#" target="_blank" title="My Discord: successjoseph_dev">
+    <img src="https://skillicons.dev/icons?i=discord" alt="My Discord Profile" width="40"/>
   </a>
 </p>
