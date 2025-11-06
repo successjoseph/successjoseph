@@ -20,8 +20,8 @@ I work with a variety of tools, with a strong focus on backend technologies.
 | :--- | :--- | :--- | :--- |
 | Python | JavaScript | Local AI (Ollama) | Git & GitHub |
 | Flask | HTML5 | News API | VSCode |
-| MongoDB |  Tailwind CSS | | PowerShell / Bash |
-| | | | Deployment |
+| MongoDB | CSS3 | | PowerShell / Bash |
+| | Tailwind CSS | | Deployment |
 
 <br>
 
