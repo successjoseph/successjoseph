@@ -83,8 +83,8 @@ I work with a variety of tools, with a strong focus on backend technologies.
 ### 📊 My GitHub Stats
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=successjoseph&show_icons=true&theme=tokyonight" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=successjoseph&layout=compact&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=successjoseph&show_icons=true&theme=synthwave" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=successjoseph&layout=compact&theme=radical" />
 </div>
 
 <br>
